@@ -6,10 +6,8 @@ return {
 
     conform.setup({
       formatters_by_ft = {
-        json = { "prettier" },
         markdown = { "prettier" },
         lua = { "stylua" },
-        toml = { "tombi" },
         python = { "ruff_fix", "ruff_format", "ruff_organize_imports" },
       },
       format_on_save = {

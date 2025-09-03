@@ -33,7 +33,6 @@ return {
         "rust_analyzer",
         "clangd",
         "marksman",
-        "tombi",
       },
     })
 
@@ -43,9 +42,7 @@ return {
         "ruff",
         "basedpyright",
         "debugpy",
-        "json-lsp",
         "prettier",
-        "tombi",
       },
     })
   end,
