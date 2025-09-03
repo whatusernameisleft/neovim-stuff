@@ -2,6 +2,7 @@ Requires
 ========
 - wezterm
 - neovim >= 0.11
+- make
 - ripgrep
 - fzf
 - pynvim
