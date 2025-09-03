@@ -3,6 +3,7 @@ Requires
 - wezterm
 - neovim >= 0.11
 - make
+- cmake
 - ripgrep
 - fzf
 - pynvim
