@@ -7,5 +7,6 @@ Requires
 - ripgrep
 - fzf
 - pynvim
+- lazygit
 
 https://github.com/nvim-telescope/telescope-fzf-native.nvim/issues/118
